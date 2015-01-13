@@ -1,0 +1,8 @@
+[title here]
+Meter=Image
+ImageName=#@#Images\(button image path here).png
+H=25
+LeftMouseUpAction=["(file path here)"]
+
+[Rainmeter]
+Update=1000
